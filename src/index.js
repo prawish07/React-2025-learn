@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import App2 from './App2';
 import App10 from './Day10/useEffect/App10';
+import App11 from './Day11/ImageGallery/App11';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App2 /> */}
     {/* <App/> */}
-    <App10/>
+    {/* <App10/> */}
+    <App11/>
   </React.StrictMode>
 );
 

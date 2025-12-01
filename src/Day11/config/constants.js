@@ -1,0 +1,1 @@
+export const ACCESS_KEY='oM4SfAafEm7BdfuTfmho21rFRRBj2JCnjCzSoNcH4Sg'
