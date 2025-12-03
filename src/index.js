@@ -6,13 +6,19 @@ import reportWebVitals from './reportWebVitals';
 import App2 from './App2';
 import App10 from './Day10/useEffect/App10';
 import App11 from './Day11/ImageGallery/App11';
+import App12 from './Day12/Yup&Formik/App12';
+import App12formik from './Day12/Yup&Formik/App12.formik';
+import App13 from './Day13/App13';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App2 /> */}
     {/* <App/> */}
     {/* <App10/> */}
-    <App11/>
+    {/* <App11/> */}
+    {/* <App12/> */}
+    {/* <App12formik/> */}
+    <App13/>
   </React.StrictMode>
 );
 
