@@ -9,6 +9,8 @@ import App11 from './Day11/ImageGallery/App11';
 import App12 from './Day12/Yup&Formik/App12';
 import App12formik from './Day12/Yup&Formik/App12.formik';
 import App13 from './Day13/App13';
+import App14reducer from './Day14/useReducer/App14reducer';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -18,7 +20,9 @@ root.render(
     {/* <App11/> */}
     {/* <App12/> */}
     {/* <App12formik/> */}
-    <App13/>
+    {/* <App13/> */}
+    {/* <App14/> */}
+    <App14reducer/>
   </React.StrictMode>
 );
 
